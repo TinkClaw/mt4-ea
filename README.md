@@ -13,9 +13,9 @@ AI-powered trading signals delivered directly to MetaTrader.
 6. Enter your TinkClaw API key in the settings
 
 ### Getting an API Key
-- Free: 50 signals/day → [tinkclaw.com](https://tinkclaw.com)
-- Pro ($9.99/mo): 5,000 credits/month, all symbols, ML scoring
-- Pro+ ($19.99/mo): 12,000 credits/month, WebSocket, confluence
+- Free: SmartChart access, no API → [tinkclaw.com](https://tinkclaw.com)
+- Pro ($9.99/mo): 50 API calls/day, all symbols, ML scoring
+- Pro+ ($19.99/mo): 100 API calls/day, WebSocket, confluence
 
 ## Features
 
